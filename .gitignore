@@ -1,0 +1,5 @@
+.ropeproject
+venv
+.*.sw[a-p]
+GeoIPASNum.dat*
+GeoLiteCity.dat*
