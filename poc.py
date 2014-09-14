@@ -30,7 +30,7 @@ def main(argv=None):
         argv = sys.argv
 
     if len(argv) < 2:
-        print '{} <ip>'.formation(argv[0])
+        print '{} <ip>'.format(argv[0])
 
     databases = [
         'http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz',
